@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-events-and-webinars-vue-inertia",
+  "capabilityKey": "liberusoftware/module-crm-events-and-webinars",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-crm-events-and-webinars-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/events-and-webinars.md",
+  "presentationPlan": "projects/crm/vue/events-and-webinars.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
